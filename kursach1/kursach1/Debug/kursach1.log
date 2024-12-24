@@ -1,0 +1,3 @@
+﻿  kursach1.cpp
+C:\Users\23\OneDrive\Рабочий стол\kursach1\kursach1\kursach1.cpp(86,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  kursach1.vcxproj -> C:\Users\23\OneDrive\Рабочий стол\kursach1\Debug\kursach1.exe
